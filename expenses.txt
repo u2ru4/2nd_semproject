@@ -1,0 +1,5 @@
+3-8-2026,coffee,drink,250
+3-8-2026,fruit,healthy,3400
+3-8-2026,noodle,junk food,245
+3-8-2026,copy,stationery,200
+4-10-2026,lays,food,80
